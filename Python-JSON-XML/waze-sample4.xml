@@ -1,0 +1,115 @@
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:linqmap="http://www.linqmap.com">
+  <channel>
+    <title>GeoRSS</title>
+    <description>GeoRSS</description>
+    <georss:box>7.043000 125.565000 7.136000 125.663000</georss:box>
+    <linqmap:time>Tue Jun 12 09:07:00 +0000 2018,Tue Jun 12 09:08:00 +0000 2018</linqmap:time>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 09:04:36 +0000 2018</pubDate>
+      <linqmap:uuid>1098177905</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.069972 125.62019 7.069567 125.619983 7.069299 125.619841 7.069206 125.619768 7.069011 125.619542 7.068578 125.619035 7.067564 125.617785 7.06691 125.617017 7.066634 125.616681 7.066326 125.616305 7.065973 125.615869 7.065702 125.615541 7.065281 125.61503 7.064679 125.6143 7.064275 125.613817 7.064096 125.613603 7.064048 125.613526 7.064009 125.613434 7.06387 125.612995 7.063868 125.612993 7.06369 125.612516 7.063595 125.61232 7.06349 125.612106 7.06323 125.611649 7.062954 125.611198</georss:line>
+      <linqmap:speed>5.222222222222222</linqmap:speed>
+      <linqmap:speedKMH>18.8</linqmap:speedKMH>
+      <linqmap:length>1279</linqmap:length>
+      <linqmap:delay>103</linqmap:delay>
+      <linqmap:endNode>San Pedro &amp; then to C.M. Recto Ave / City Center / Davao City Hall</linqmap:endNode>
+      <linqmap:street>916: Quezon Blvd</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>7</linqmap:roadType>
+      <linqmap:level>1</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 09:02:00 +0000 2018</pubDate>
+      <linqmap:uuid>1091697666</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.050065 125.585655 7.0498 125.585748 7.049398 125.586121 7.048979 125.586514</georss:line>
+      <linqmap:speed>0.9833333333333333</linqmap:speed>
+      <linqmap:speedKMH>3.54</linqmap:speedKMH>
+      <linqmap:length>156</linqmap:length>
+      <linqmap:delay>139</linqmap:delay>
+      <linqmap:street>Eco W Dr</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>1</linqmap:roadType>
+      <linqmap:level>4</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 08:57:53 +0000 2018</pubDate>
+      <linqmap:uuid>1099556024</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.081327 125.624656 7.080407 125.624744 7.078819 125.624883 7.077274 125.625011 7.076761 125.625056 7.076296 125.625097 7.075787 125.62514 7.075259 125.62519</georss:line>
+      <linqmap:speed>4.088888888888889</linqmap:speed>
+      <linqmap:speedKMH>14.719999999999999</linqmap:speedKMH>
+      <linqmap:length>674</linqmap:length>
+      <linqmap:delay>95</linqmap:delay>
+      <linqmap:endNode>Leon Garcia &amp; onto Cabaguio Ave / R. Castillo / Lapu-Lapu</linqmap:endNode>
+      <linqmap:street>916: Leon Garcia</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>7</linqmap:roadType>
+      <linqmap:level>2</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 08:55:15 +0000 2018</pubDate>
+      <linqmap:uuid>1091319646</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.093809 125.613143 7.093378 125.612417 7.092471 125.610989 7.092184 125.610653 7.092099 125.61057 7.091959 125.610448 7.0918 125.610321 7.09166 125.610231 7.091458 125.610132 7.09126 125.610066 7.091093 125.610028 7.090839 125.60998 7.090629 125.609967 7.090291 125.609986 7.090133 125.610003 7.089954 125.610024 7.089734 125.610049 7.089422 125.610082</georss:line>
+      <linqmap:speed>2.341666666666667</linqmap:speed>
+      <linqmap:speedKMH>8.430000000000001</linqmap:speedKMH>
+      <linqmap:length>655</linqmap:length>
+      <linqmap:delay>209</linqmap:delay>
+      <linqmap:endNode>FS Dizon / Bacaca</linqmap:endNode>
+      <linqmap:street>1: J.P. Laurel Ave</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>6</linqmap:roadType>
+      <linqmap:level>3</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 08:57:51 +0000 2018</pubDate>
+      <linqmap:uuid>1091476576</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.101744 125.634604 7.101485 125.633726 7.101246 125.632903</georss:line>
+      <linqmap:speed>0.9361111111111111</linqmap:speed>
+      <linqmap:speedKMH>3.37</linqmap:speedKMH>
+      <linqmap:length>196</linqmap:length>
+      <linqmap:delay>151</linqmap:delay>
+      <linqmap:endNode>Angliongto (Mamay Rd)</linqmap:endNode>
+      <linqmap:street>1: J.P. Laurel Ave</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>6</linqmap:roadType>
+      <linqmap:level>4</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+    <item>
+      <title>jam</title>
+      <pubDate>Tue Jun 12 09:09:57 +0000 2018</pubDate>
+      <linqmap:uuid>1098428025</linqmap:uuid>
+      <linqmap:type>NONE</linqmap:type>
+      <georss:line>7.099567 125.627029 7.099768 125.627728 7.10032 125.629671 7.100451 125.630125 7.100491 125.630258 7.100627 125.630736 7.100737 125.631122 7.100761 125.631205 7.100802 125.631349 7.101246 125.632903</georss:line>
+      <linqmap:speed>3.9694444444444446</linqmap:speed>
+      <linqmap:speedKMH>14.290000000000001</linqmap:speedKMH>
+      <linqmap:length>674</linqmap:length>
+      <linqmap:delay>95</linqmap:delay>
+      <linqmap:endNode>Angliongto (Mamay Rd)</linqmap:endNode>
+      <linqmap:street>1: J.P. Laurel Ave</linqmap:street>
+      <linqmap:city>Davao City</linqmap:city>
+      <linqmap:country>RP</linqmap:country>
+      <linqmap:roadType>6</linqmap:roadType>
+      <linqmap:level>2</linqmap:level>
+      <linqmap:turnType>NONE</linqmap:turnType>
+    </item>
+  </channel>
+</rss>

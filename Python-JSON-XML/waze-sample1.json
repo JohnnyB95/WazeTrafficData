@@ -1,0 +1,11 @@
+{
+  "id": "101",
+  "type": "HAZARD",
+  "subtype": "HAZARD_ON_ROAD",
+  "polyline": "51.510090 -0.006902 51.509142 -0.006564 51.506291 -0.003640 51.503796 0.001051 51.499218 0.001687 51.497365 0.002020",
+  "street": "NW 12th St",
+  "starttime": "2016-04-07T09:00:00+01:00",
+  "endtime": "2016-04-07T23:00:00+01:00",
+  "description": " Closure on I-95 NB due to construction",
+  "direction": "BOTH_DIRECTIONS"
+}
